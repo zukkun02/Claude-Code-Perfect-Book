@@ -253,8 +253,6 @@ flowchart LR
 
 ## 第3部：記憶編
 
-![Vector Space](./images/vector-space.png)
-
 ### 第6章 メモリ設計の基本
 
 #### `memory.md` 一発勝負はいずれ破綻する
