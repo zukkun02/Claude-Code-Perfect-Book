@@ -28,6 +28,18 @@
 
 ---
 
+## 📁 関連ドキュメント（[Doc/](./Doc)）
+
+本編と併せて読みたい補助資料：
+
+- [AI関連学問マッピング](./Doc/AI%E9%96%A2%E9%80%A3%E5%AD%A6%E5%95%8F%E3%83%9E%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0.md) — AI 周辺領域の学問体系を俯瞰
+- [Context7使用説明書](./Doc/Context7%E4%BD%BF%E7%94%A8%E8%AA%AC%E6%98%8E%E6%9B%B8.md) — 公式ドキュメントを LLM に読ませる MCP の使い方
+- [Slack起点RAG実装メモ](./Doc/Slack%E8%B5%B7%E7%82%B9RAG%E5%AE%9F%E8%A3%85%E3%83%A1%E3%83%A2.md) — 社内 Slack を起点にした RAG 構築ノート
+- [Superpowers使用説明書](./Doc/Superpowers%E4%BD%BF%E7%94%A8%E8%AA%AC%E6%98%8E%E6%9B%B8.md) — Claude Code Superpowers スキルの運用
+- [データ取得チャネル設計メモ](./Doc/%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%96%E5%BE%97%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2.md) — Slack / Drive / Meet など全社データ取得経路の設計
+
+---
+
 ## 🗺 構成
 
 | 部 | テーマ | 章 |
